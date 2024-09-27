@@ -1,0 +1,17 @@
+/*Author    : Dena alfadly*/
+/*Github    : https://github.com/denaalfadly*/
+/*Facebook  : https://facebook.com/denaalfadly*/
+/*Instagram : https://instagram.com/denaalfadly*/
+/*Website   : https://denaalfadly*/
+
+@media (min-width: 300px) and (max-width: 640px) {
+  .ml1 {
+    margin-top: 45%;
+  }
+
+  .kontener2 {
+    padding: 10px;
+    text-align: center;
+    margin-top: 60%;
+  }
+}
